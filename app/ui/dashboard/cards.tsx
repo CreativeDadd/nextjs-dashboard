@@ -27,7 +27,7 @@ export default async function CardWrapper() {
         type="customers"
       /> */}
     </>
-  );
+  )
 }
 
 export function Card({
